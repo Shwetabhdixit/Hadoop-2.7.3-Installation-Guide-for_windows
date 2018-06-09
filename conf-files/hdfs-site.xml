@@ -28,7 +28,7 @@
 
    <property>
         <name>dfs.datanode.data.dir</name>
-		<value>file:///C:hadoop/hadoop-2.7.3/data/data/datanode</value>
+		<value>file:///C:hadoop/hadoop-2.7.3/data/datanode</value>
    </property>
    <property>
 		<name>dfs.webhdfs.enabled</name>
